@@ -1,4 +1,4 @@
-# ETF Analysis with Inferential Statistic and R
+# ETF Analysis with Inferential Statistics and R
 
 This project aims to answer some financial questions through the notions learned during the course "Probability and Statistics for Computer Science" at Politecnico di Milano.
 
